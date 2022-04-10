@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tags1",
+  "info": {
+    "singularName": "tags",
+    "pluralName": "tags1",
+    "displayName": "tags"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "text",
+      "required": true
+    }
+  }
+}
